@@ -49,3 +49,24 @@ a {
     font-weight: bold;
     font-size: 20px;
 }
+
+.odkazy:hover{
+    background: #2e2e2e;
+    border-radius: 3px;
+}
+
+.kuřičná{
+    width: 200px;
+}
+
+.mouka{
+width: 300px;
+}
+
+.hruba-mouka{
+    width: 200px;
+}
+
+.psenicna-mouka{
+    width: 200px;
+}
