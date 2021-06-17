@@ -70,3 +70,30 @@ width: 300px;
 .psenicna-mouka{
     width: 200px;
 }
+
+.tlačítko{
+     position: fixed;
+     width: 50px;
+     background: palevioletred;
+     bottom: 40px;
+     right: 50px;
+}
+
+.intagram{
+    width: 50px;
+}
+
+.beebot{
+    font-size: 30px;
+    text-decoration: white;
+}
+
+.beebot:hover{
+    background: #2e2e2e;
+    border-radius: 30px;
+    border-width: 50px;
+}
+
+.vexcodeiq{
+    font-size: 30px;
+}
