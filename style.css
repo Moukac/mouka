@@ -10,7 +10,8 @@ body{
 .wrapper{
     width: 80vmin;
     padding: 50px 40px;
-    background-color: #c4c4c4;
+    background-color: #c4c4c400;
+    font-size: 16px;
     position: absolute;
     transform: translate(-50%, -50%);
     top: 50%;
